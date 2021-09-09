@@ -8,3 +8,4 @@ scipy==1.4.1
 statsmodels==0.12.2
 mpmath==1.2.1
 joypy==0.2.4
+altair==4.1.0
